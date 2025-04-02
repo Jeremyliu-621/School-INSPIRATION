@@ -27,11 +27,11 @@ _Spring/Summer 2024_
 
 ### Features
 
-French
+Subjects included: French
 
 ## Credits
 
-
+Myself
 
 ## License
 MIT © [Jeremy Liu]()
