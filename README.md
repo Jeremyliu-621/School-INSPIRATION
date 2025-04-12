@@ -25,7 +25,7 @@ _Spring/Summer 2024_
 - University prep.
 - Reviewing for school (non-cs-exclusive) using code. This allows me to understand the subject and practise my programming at the same time!
 
-### Features
+## Features
 
 Subjects included: French
 
